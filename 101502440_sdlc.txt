@@ -1,0 +1,1 @@
+DevOps SDLC (Software Development Life Cycle) integrates DevOps principles into the traditional SDLC.
