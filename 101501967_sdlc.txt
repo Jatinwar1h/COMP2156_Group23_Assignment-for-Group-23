@@ -7,3 +7,4 @@ The design phase creates a blueprint for how the software will look and work.
 In testing, the software is checked for bugs and errors.
 The development phase is where programmers write the code.
 The deployment stage is when the software is released to users.
+The maintenance phase fixes problems and updates the software.
