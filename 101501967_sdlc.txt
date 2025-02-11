@@ -3,3 +3,4 @@ SDLC (Software Development Life Cycle) is a structured process used to design, d
 It helps teams plan, create, test, and launch software properly.
 SDLC has different stages like planning, designing, coding, testing, and maintenance.
 In the planning stage, teams decide what the software should do.
+The design phase creates a blueprint for how the software will look and work.

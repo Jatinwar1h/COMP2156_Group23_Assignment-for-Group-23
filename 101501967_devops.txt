@@ -3,3 +3,4 @@ DevOps is a set of practices that combine software development (Dev) and IT oper
 It helps teams build, test, and release software faster.
 DevOps uses automation to reduce manual work and errors.
 It includes Continuous Integration (CI) and Continuous Deployment (CD) for quick updates.
+Popular DevOps tools include Docker, Kubernetes, Jenkins, and Git.
