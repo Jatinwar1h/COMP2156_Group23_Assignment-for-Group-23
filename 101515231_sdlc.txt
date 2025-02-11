@@ -6,3 +6,4 @@ Requirement analysis is the first step, where stakeholders define what the softw
 The design phase involves creating software architecture, UI/UX, and database models.
 During development, programmers write code based on the design specifications.
 The testing phase ensures the software is bug-free, secure, and meets user requirements.
+After successful testing, the software is deployed to production and made available to users.
