@@ -1,0 +1,1 @@
+DevOps is a combination of Development (Dev) and Operations (Ops) that promotes collaboration between software development and IT operations teams.
