@@ -7,3 +7,4 @@ The design phase involves creating software architecture, UI/UX, and database mo
 During development, programmers write code based on the design specifications.
 The testing phase ensures the software is bug-free, secure, and meets user requirements.
 After successful testing, the software is deployed to production and made available to users.
+The maintenance phase involves regular updates, bug fixes, and performance improvements to ensure long-term usability.
