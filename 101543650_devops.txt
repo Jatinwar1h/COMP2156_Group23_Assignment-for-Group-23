@@ -6,3 +6,4 @@ The goal of DevOps is to shorten the development life cycle while maintaining hi
  The use of monitoring tools in DevOps ensures that systems are running smoothly, and any potential issues can be detected early
  DevOps practices encourage the use of version control systems to track changes, making collaboration between teams more efficient. Infrastructure as Code (IaC) is another crucial principle, allowing IT infrastructure to be managed using code, which enhances automation and consistency.
 One of the key benefits of DevOps is faster release cycles, which result from the continuous integration and continuous delivery (CI/CD) practices
+Infrastructure as Code (IaC) is another crucial principle, allowing IT infrastructure to be managed using code, which enhances automation and consistency.
