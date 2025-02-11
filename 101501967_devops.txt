@@ -1,1 +1,2 @@
 Professor help us in every task. 
+DevOps is a set of practices  that combine software development (Dev) and IT operations (Ops) to enhance software delivery speed, efficiency, and reliability.
