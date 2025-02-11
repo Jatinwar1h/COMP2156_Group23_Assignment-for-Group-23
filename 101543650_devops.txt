@@ -2,3 +2,4 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 DEVOps focuses on automating and streamlining the processes between software development and IT teams. 
 The goal of DevOps is to shorten the development life cycle while maintaining high quality and continuous delivery. 
  By fostering a culture of collaboration and shared responsibility, DevOps enables faster and more reliable software releases.
+ DevOps also relies heavily on automation, utilizing tools like Jenkins, Docker, and Kubernetes to facilitate code testing, deployment, and scaling.
