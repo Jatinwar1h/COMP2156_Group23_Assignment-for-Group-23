@@ -1,2 +1,3 @@
 DevOps promotes cross-functional collaboration.
 SDLC (Software Development Life Cycle) is a structured process used to design, develop, test, and deploy high-quality software.
+It helps teams plan, create, test, and launch software properly.
