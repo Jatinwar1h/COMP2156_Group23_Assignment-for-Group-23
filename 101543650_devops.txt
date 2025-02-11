@@ -3,3 +3,4 @@ DEVOps focuses on automating and streamlining the processes between software dev
 The goal of DevOps is to shorten the development life cycle while maintaining high quality and continuous delivery. 
  By fostering a culture of collaboration and shared responsibility, DevOps enables faster and more reliable software releases.
  DevOps also relies heavily on automation, utilizing tools like Jenkins, Docker, and Kubernetes to facilitate code testing, deployment, and scaling.
+ The use of monitoring tools in DevOps ensures that systems are running smoothly, and any potential issues can be detected early
