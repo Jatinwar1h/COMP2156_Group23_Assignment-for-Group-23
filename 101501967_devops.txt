@@ -2,3 +2,4 @@ Professor help us in every task.
 DevOps is a set of practices that combine software development (Dev) and IT operations (Ops) to enhance software delivery speed, efficiency, and reliability.
 It helps teams build, test, and release software faster.
 DevOps uses automation to reduce manual work and errors.
+It includes Continuous Integration (CI) and Continuous Deployment (CD) for quick updates.
