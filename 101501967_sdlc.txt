@@ -5,3 +5,4 @@ SDLC has different stages like planning, designing, coding, testing, and mainten
 In the planning stage, teams decide what the software should do.
 The design phase creates a blueprint for how the software will look and work.
 In testing, the software is checked for bugs and errors.
+The development phase is where programmers write the code.
