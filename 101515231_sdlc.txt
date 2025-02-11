@@ -3,3 +3,4 @@ It consists of phases such as planning, requirements gathering, design, developm
 SDLC ensures high-quality software by following a systematic approach with clear objectives at each stage.
 Common SDLC models include Waterfall, Agile, Spiral, V-Model, and DevOps.
 Requirement analysis is the first step, where stakeholders define what the software should achieve.
+The design phase involves creating software architecture, UI/UX, and database models.
