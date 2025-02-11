@@ -6,3 +6,4 @@ It includes Continuous Integration (CI) and Continuous Deployment (CD) for quick
 Popular DevOps tools include Docker, Kubernetes, Jenkins, and Git.
 Cloud platforms like AWS, Azure, and Google Cloud support DevOps.
 DevOps improves team collaboration between developers and IT operations.
+Monitoring and security are important parts of DevOps.
