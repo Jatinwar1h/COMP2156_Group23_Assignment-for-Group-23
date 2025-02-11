@@ -7,3 +7,4 @@ During the planning phase, project requirements and timelines are defined to ens
 It fosters a culture of continuous improvement, where feedback from various stages of the development cycle informs future enhancements.
 The SDLC ultimately helps in creating high-quality software, aligning with business goals, and ensuring stakeholder satisfaction.
 Effective project management ensures that each phase is completed on schedule and within scope while managing resources efficiently. 
+In the design phase, system architects and developers create detailed specifications that lay out the architecture, data flow, and system components.
