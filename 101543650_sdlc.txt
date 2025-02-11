@@ -4,3 +4,4 @@ Documentation Creating and maintaining detailed records of the software’s desi
 Project Management Overseeing the entire lifecycle, ensuring timelines, budgets, and resources are properly managed.
 The SDLC ensures that software is developed in an efficient and systematic manner.
 During the planning phase, project requirements and timelines are defined to ensure clear objectives are set from the start.
+It fosters a culture of continuous improvement, where feedback from various stages of the development cycle informs future enhancements.
