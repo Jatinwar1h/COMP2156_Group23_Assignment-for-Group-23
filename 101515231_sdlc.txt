@@ -5,3 +5,4 @@ Common SDLC models include Waterfall, Agile, Spiral, V-Model, and DevOps.
 Requirement analysis is the first step, where stakeholders define what the software should achieve.
 The design phase involves creating software architecture, UI/UX, and database models.
 During development, programmers write code based on the design specifications.
+The testing phase ensures the software is bug-free, secure, and meets user requirements.
