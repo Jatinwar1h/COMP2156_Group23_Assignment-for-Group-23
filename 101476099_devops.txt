@@ -1,2 +1,3 @@
 The COMP 2156 DevOps course at George Brown College focuses on building practical skills in system administration and modern software development. Topics such as version control, continuous integration and delivery (CI/CD), and automation are covered, preparing students for careers in IT operations and software development. This course provides hands-on experience with industry-standard tools and practices, ensuring that students are ready to contribute effectively to the DevOps lifecycle.
 Students learn to use GitHub, Docker, Kubernetes, and Jenkins to automate deployments and manage infrastructure
+The course includes hands-on labs that simulate real-world DevOps environments, preparing students for industry jobs.
