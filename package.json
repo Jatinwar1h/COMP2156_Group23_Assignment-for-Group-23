@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatinwar1h/COMP2156_Group23_Assignment-for-Group-23.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jatinwar1h/COMP2156_Group23_Assignment-for-Group-23/issues"
+  },
+  "homepage": "https://github.com/Jatinwar1h/COMP2156_Group23_Assignment-for-Group-23#readme"
 }
