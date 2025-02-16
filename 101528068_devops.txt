@@ -2,3 +2,4 @@ The DevOps SDLC follows an iterative and continuous approach to software develop
 It includes phases like planning, development, build, testing, release, deployment, operation, and monitoring.
 Agile methodologies and automation are essential to DevOps SDLC.
 Continuous Integration (CI) ensures that code changes are frequently merged and tested.
+Continuous Deployment (CD) automates the release process to minimize manual intervention.
