@@ -4,3 +4,4 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 DevOps is a set of practices that combines software development (Dev) and IT operations
 DevOps is a set of practices that combine software development (Dev) and IT operations (Ops).
 >>>>>>> 71e455e (“gbc”)
+DevOps promotes automation, continuous integration, and continuous deployment (CI/CD).

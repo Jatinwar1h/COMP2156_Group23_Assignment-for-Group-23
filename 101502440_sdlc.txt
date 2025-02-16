@@ -3,3 +3,4 @@ DevOps SDLC (Software Development Life Cycle) integrates DevOps principles into 
 =======
 The DevOps SDLC follows an iterative and continuous approach to software development.
 >>>>>>> 71e455e (“gbc”)
+Agile methodologies and automation are essential to DevOps SDLC.

@@ -4,3 +4,4 @@ george brown collage
 =======
 It provides hands-on learning experiences with strong industry partnerships to enhance students' skills.
 >>>>>>> 71e455e (“gbc”)
+The college is known for its commitment to innovation and applied research.
