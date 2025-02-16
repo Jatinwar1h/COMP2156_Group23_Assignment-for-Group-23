@@ -5,3 +5,4 @@ Continuous Integration (CI) ensures that code changes are frequently merged and 
 Continuous Deployment (CD) automates the release process to minimize manual intervention.
 Infrastructure as Code (IaC) allows managing infrastructure through scripts and configuration files.
 DevOps SDLC integrates security testing early in the development process (Shift Left approach).
+Monitoring and feedback loops help in identifying issues and improving system performance.
