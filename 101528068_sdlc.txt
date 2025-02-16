@@ -6,3 +6,4 @@ Key DevOps tools include Docker, Kubernetes, Jenkins, Git, and Ansible.
 DevOps improves deployment frequency and reduces system failure rates.
 Cloud platforms like AWS, Azure, and Google Cloud play a significant role in DevOps.
 Monitoring and logging tools like Prometheus and ELK stack help in performance tracking.
+Security is integrated into DevOps through DevSecOps practices.
