@@ -1,8 +1,8 @@
 {
-{
   "name": "jatin",
   "version": "1.0.0",
   "main": "index.js",
+{
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -53,3 +53,23 @@
 }
 
 
+{
+  "name": "jatin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatinwar1h/COMP2156_Group23_Assignment-for-Group-23.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jatinwar1h/COMP2156_Group23_Assignment-for-Group-23/issues"
+  },
+  "homepage": "https://github.com/Jatinwar1h/COMP2156_Group23_Assignment-for-Group-23#readme"
+}
