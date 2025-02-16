@@ -5,3 +5,7 @@ george brown collage
 It provides hands-on learning experiences with strong industry partnerships to enhance students' skills.
 >>>>>>> 71e455e (“gbc”)
 The college is known for its commitment to innovation and applied research.
+The college has three main campuses: St. James, Casa Loma, and Waterfront.
+George Brown offers programs in business, technology, healthcare, hospitality, and more.
+It emphasizes experiential learning through co-op placements, internships, and real-world projects.
+The college is known for its commitment to innovation and applied research.ss 
