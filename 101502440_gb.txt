@@ -1,2 +1,6 @@
 george brown collage
+<<<<<<< HEAD
 
+=======
+It provides hands-on learning experiences with strong industry partnerships to enhance students' skills.
+>>>>>>> 71e455e (“gbc”)
