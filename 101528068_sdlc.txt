@@ -4,3 +4,4 @@ DevOps promotes automation, continuous integration, and continuous deployment (C
 It enhances collaboration between development and operations teams.
 Key DevOps tools include Docker, Kubernetes, Jenkins, Git, and Ansible.
 DevOps improves deployment frequency and reduces system failure rates.
+Cloud platforms like AWS, Azure, and Google Cloud play a significant role in DevOps.
